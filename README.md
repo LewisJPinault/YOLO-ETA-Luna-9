@@ -4,7 +4,7 @@ Welcome to our YOLO-ETA (Luna 9) Jupyter Notebook project! This README file acco
 
 This repository contains:
 
--- The YOLO-ETA Jupyter Notebook, YOLO_ETA.ipynb -- The YOLO-ETA trained model for running in the Jupyter Notebook, using the Turi Create Library, in a folder titled YOLO-ETA -- A sample test image to try, in the folder test_images -- Labels to match the test image, in a file named labels_test.json
+-- The YOLO-ETA Jupyter Notebook, YOLO_ETA.ipynb -- The YOLO-ETA trained model for running in the Jupyter Notebook, using the Turi Create Library, in a folder titled YOLO-ETA -- And a sample test image to try, in the folder test_images.
 
 Getting Started To get started with the YOLO-ETA notebook, you'll need to have Jupyter installed on your machine. If you don't have Jupyter yet, you can install it by following the instructions on the Jupyter Project website, https://jupyter.org/install
 
